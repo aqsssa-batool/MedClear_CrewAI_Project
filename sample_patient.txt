@@ -1,0 +1,10 @@
+Patient Name: Mrs. Nasreen Akhtar (Age: 63)
+Caregiver: Her daughter Ayesha, who manages her mother's daily medicines.
+Daily Habits:
+- Wakes up around 6:30 AM
+- Breakfast at 8:00 AM
+- Lunch at 1:30 PM
+- Evening tea at 5:30 PM
+- Dinner at 8:30 PM
+- Bedtime around 10:30 PM
+Concerns: Forgets whether she took night medicines; gets lightheaded if standing up too fast.
